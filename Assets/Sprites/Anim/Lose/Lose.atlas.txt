@@ -1,0 +1,83 @@
+
+Lose.png
+size: 306,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EyesL
+  rotate: false
+  xy: 2, 887
+  size: 65, 19
+  orig: 67, 21
+  offset: 1, 1
+  index: -1
+EyesR
+  rotate: false
+  xy: 69, 887
+  size: 65, 19
+  orig: 67, 21
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 2
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+browsL
+  rotate: false
+  xy: 136, 874
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+browsR
+  rotate: false
+  xy: 170, 874
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 2, 837
+  size: 48, 69
+  orig: 50, 71
+  offset: 1, 1
+  index: -1
+nuocmatL
+  rotate: true
+  xy: 73, 819
+  size: 43, 182
+  orig: 43, 182
+  offset: 0, 0
+  index: -1
+nuocmatR
+  rotate: true
+  xy: 73, 819
+  size: 43, 182
+  orig: 43, 182
+  offset: 0, 0
+  index: -1
+nuocmatL2
+  rotate: true
+  xy: 204, 864
+  size: 42, 92
+  orig: 44, 98
+  offset: 1, 1
+  index: -1
+overlay
+  rotate: false
+  xy: 2, 608
+  size: 300, 209
+  orig: 302, 214
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 306
+  size: 300, 300
+  orig: 302, 302
+  offset: 1, 1
+  index: -1

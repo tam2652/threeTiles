@@ -1,0 +1,42 @@
+{
+"skeleton": {
+	"hash": "RldMGvsEDQtdmjAQLbuMoGG2O7Y",
+	"spine": "3.8.99",
+	"x": -32,
+	"y": -32,
+	"width": 64,
+	"height": 64,
+	"images": "D:/HyperCasual/Blockudoku/Block",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "Block", "bone": "bone", "attachment": "Block" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Block": {
+				"Block": { "width": 64, "height": 64 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1, "x": 1.5, "y": 1.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

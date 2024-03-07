@@ -1,0 +1,23 @@
+{"type":"root","options":{
+
+},"size":{"width":720,"height":1280},"children":[{"name":"PanelResult","type":"group","options":{
+
+},"offset":{"left":62,"top":244},"size":{"width":595,"height":752},"relativePath":"PanelResult","children":[{"name":"Level","type":"text","options":{"anchor":{"x":"center","y":"top"},"pivot":{"x":"center","y":"bottom"},"opacity":100,"textContents":"Level 1","textFont":"LazyMeow-Regular","textSize":72,"textColor":{"red":255,"green":255,"blue":255},"textHorizontalWrap":false},"offset":{"left":271,"top":244},"size":{"width":177,"height":59},"relativePath":"PanelResult/Level","children":[
+
+]},{"name":"Result","type":"text","options":{"anchor":{"x":"center","y":"top"},"opacity":100,"textContents":"WIN","textFont":"LazyMeow-Regular","textSize":72,"textColor":{"red":255,"green":255,"blue":255},"textHorizontalWrap":false},"offset":{"left":307,"top":379},"size":{"width":105,"height":60},"relativePath":"PanelResult/Result","children":[
+
+]},{"name":"CatAnim","type":"png","options":{
+
+},"offset":{"left":206,"top":484},"size":{"width":308,"height":308},"relativePath":"PanelResult/CatAnim","children":[
+
+]},{"name":"Button","type":"group","options":{
+
+},"offset":{"left":236,"top":858},"size":{"width":247,"height":110},"relativePath":"PanelResult/Button","children":[{"name":"Text","type":"text","options":{"anchor":{"x":"stretch","y":"stretch"},"opacity":100,"textContents":"Next Level","textFont":"LazyMeow-Regular","textSize":48,"textColor":{"red":255,"green":255,"blue":255},"textHorizontalWrap":false},"offset":{"left":266,"top":888},"size":{"width":187,"height":43},"relativePath":"PanelResult/Button/Text","children":[
+
+]},{"name":"Button-Green","type":"button","options":{"buttonStates":["normal"]},"offset":{"left":236,"top":858},"size":{"width":247,"height":110},"relativePath":"PanelResult/Button/Button-Green","children":[
+
+]}]},{"name":"ResultBackground","type":"png","options":{
+
+},"offset":{"left":62,"top":345},"size":{"width":595,"height":651},"relativePath":"PanelResult/ResultBackground","children":[
+
+]}]}]}

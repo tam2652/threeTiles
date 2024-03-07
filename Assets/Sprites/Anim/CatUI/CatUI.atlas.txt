@@ -1,0 +1,104 @@
+
+CatUI.png
+size: 836,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 312, 32
+  size: 280, 179
+  orig: 282, 181
+  offset: 1, 1
+  index: -1
+Ear_L
+  rotate: true
+  xy: 737, 229
+  size: 83, 87
+  orig: 85, 89
+  offset: 1, 1
+  index: -1
+Ear_R
+  rotate: true
+  xy: 737, 144
+  size: 83, 87
+  orig: 85, 89
+  offset: 1, 1
+  index: -1
+Eye_L1
+  rotate: false
+  xy: 629, 132
+  size: 79, 72
+  orig: 81, 74
+  offset: 1, 1
+  index: -1
+Eye_L2
+  rotate: false
+  xy: 629, 206
+  size: 106, 106
+  orig: 108, 108
+  offset: 1, 1
+  index: -1
+Eye_R2
+  rotate: false
+  xy: 629, 206
+  size: 106, 106
+  orig: 108, 108
+  offset: 1, 1
+  index: -1
+Eye_R1
+  rotate: false
+  xy: 710, 70
+  size: 79, 72
+  orig: 81, 74
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: true
+  xy: 791, 30
+  size: 112, 43
+  orig: 114, 45
+  offset: 1, 1
+  index: -1
+Hand_R
+  rotate: true
+  xy: 629, 18
+  size: 112, 43
+  orig: 114, 45
+  offset: 1, 1
+  index: -1
+Nose
+  rotate: true
+  xy: 312, 2
+  size: 28, 16
+  orig: 30, 18
+  offset: 1, 1
+  index: -1
+Tear1
+  rotate: false
+  xy: 674, 12
+  size: 56, 56
+  orig: 59, 58
+  offset: 1, 1
+  index: -1
+Tear2
+  rotate: false
+  xy: 732, 12
+  size: 56, 56
+  orig: 59, 58
+  offset: 2, 1
+  index: -1
+Tron
+  rotate: false
+  xy: 2, 4
+  size: 308, 308
+  orig: 312, 312
+  offset: 2, 2
+  index: -1
+Tron2
+  rotate: true
+  xy: 493, 6
+  size: 306, 134
+  orig: 312, 312
+  offset: 3, 2
+  index: -1

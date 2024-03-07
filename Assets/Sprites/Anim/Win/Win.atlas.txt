@@ -1,0 +1,55 @@
+
+Win.png
+size: 910,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EyesL
+  rotate: false
+  xy: 608, 17
+  size: 88, 77
+  orig: 90, 79
+  offset: 1, 1
+  index: -1
+EyesR
+  rotate: false
+  xy: 608, 17
+  size: 88, 77
+  orig: 90, 79
+  offset: 1, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 3
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 698, 2
+  size: 119, 45
+  orig: 121, 47
+  offset: 1, 1
+  index: -1
+overlay
+  rotate: false
+  xy: 608, 96
+  size: 300, 209
+  orig: 302, 214
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 306, 5
+  size: 300, 300
+  orig: 302, 302
+  offset: 1, 1
+  index: -1
+tongue
+  rotate: false
+  xy: 698, 49
+  size: 119, 45
+  orig: 121, 47
+  offset: 1, 1
+  index: -1
